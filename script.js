@@ -17,7 +17,7 @@ const tree={
 {name: 'Bill',
 children: [
     {name: 'Earl', children: [{name: 'Samuel', children: []}]},
-    {name: 'Poop', children: []}]}
+    {name: 'Julia', children: []}]}
 ]}
 
 printChildrenRecursive(tree);
